@@ -8,5 +8,6 @@ venv/
 .pytest_cache
 .mypy_cache
 .idea
-.tests/htmlcov/
+tests/htmlcov/
 .coverage
+uploads/
